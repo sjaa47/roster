@@ -1,0 +1,15 @@
+# Ignored files
+
+# dependency directories
+node_modules/
+
+# logs
+logs/
+*.log
+
+# build output
+/dist
+/build
+
+# local env files
+.env
